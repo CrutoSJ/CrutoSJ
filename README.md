@@ -1,8 +1,8 @@
-👋 Greetings! I'm Sumit @CrutoSJ
-👀 I’m a curious and driven developer with a passion for web design and machine learning.
-🌱 I'm continuously learning and expanding my skills in Python, C++ and all things about Development.
-💞️ I'm Excited to work together on Python and ML projects.
-📫 How to reach me - www.linkedin.com/in/sumit-jha-sj"
+# 👋 Greetings! I'm Sumit @CrutoSJ
+* 👀 I’m a curious and driven developer with a passion for web design and machine learning.
+* 🌱 I'm continuously learning and expanding my skills in Python, C++ and all things about Development.
+* 💞️ I'm Excited to work together on Python and ML projects.
+* 📫 How to reach me - www.linkedin.com/in/sumit-jha-sj"
 <!--
 **CrutoSJ/CrutoSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
