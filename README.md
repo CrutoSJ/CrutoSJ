@@ -5,7 +5,7 @@
 
 ![skill](https://user-images.githubusercontent.com/108573409/236907026-a570d6be-0a57-43a1-a1e5-d028b5baf682.gif)
 <br>
-<h1 align="center">Hi 👋, I'm Sumit Jha</h1>
+<h1 align="center">Hi 👋,I'm Sumit Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crutosj&label=Profile%20views&color=0e75b6&style=flat" alt="crutosj" /> </p>
