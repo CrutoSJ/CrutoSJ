@@ -5,7 +5,7 @@
 
 ![skill](https://user-images.githubusercontent.com/108573409/236907026-a570d6be-0a57-43a1-a1e5-d028b5baf682.gif)
 <br>
-<h1 align="center">Hi👋, I'm Sumit Jha</h1>
+<h1 align="center">Hi👋,  I'm Sumit Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crutosj&label=Profile%20views&color=0e75b6&style=flat" alt="crutosj" /> </p>
@@ -28,7 +28,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/sumit-jha-sj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-jha-sj" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20864440/crutos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20864440/crutos" height="30" width="40" /></a>
-<a href="https://kaggle.com/crutosj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="crutosj" height="30" width="40" /></a>
+<a href="https://kaggle.com/crutosj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="crutosj" height="30" width="40"
+ /></a>
 <a href="https://www.codechef.com/users/it_sj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="it_sj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/it_sj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="it_sj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/it_sj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="it_sj" height="30" width="40" /></a>
