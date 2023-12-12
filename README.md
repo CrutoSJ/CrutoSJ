@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crutosj&show_icons=true&locale=en" alt="crutosj" /></p>
 
-p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CrutoSJ&" alt="abhinavtiwari2705" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CrutoSJ&" alt="abhinavtiwari2705" /></p>
