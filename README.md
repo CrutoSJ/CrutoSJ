@@ -43,17 +43,19 @@
 
 </span>
 
-# 📊 GitHub Stats:
+## 📈 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=crutosj&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="crutosj" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crutosj&theme=tokyonight&show_icons=true&locale=en" alt="crutosj" /></p>
 
-# 📊 GitHub Streak:
+## 🔥 GitHub Streak:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CrutoSJ&theme=tokyonight-duo" alt="abhinavtiwari2705" /></p>
 
-# 📊 GitHub Contribution Graph:
+## 📊 GitHub Contribution Graph:
 
-[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CrutoSJ&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Sumit's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrutoSJ&theme=tokyonight&border_radius=7.6)
 
 
 
