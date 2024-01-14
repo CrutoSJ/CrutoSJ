@@ -51,7 +51,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crutosj&theme=tokyonight&show_icons=true&locale=en" alt="crutosj" /></p>
 
 ## 🔥 GitHub Streak:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CrutoSJ&theme=tokyonight-duo" alt="abhinavtiwari2705" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CrutoSJ&theme=tokyonight-duo" alt="Sumit Jha" /></p>
 
 ## 📊 GitHub Contribution Graph:
 
